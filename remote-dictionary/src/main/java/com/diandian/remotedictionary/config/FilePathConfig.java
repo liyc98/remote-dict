@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Description of FilePathConfig
- * Copyright 2017 Meorient, Inc. All rights reserved.
+ * Copyright 2017 diandian technology, Inc. All rights reserved.
  *
  * @author yuancheng.li
  * @version $Id: $

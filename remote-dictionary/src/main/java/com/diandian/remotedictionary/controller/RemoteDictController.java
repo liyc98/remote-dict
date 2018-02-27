@@ -15,7 +15,7 @@ import java.io.*;
 
 /**
  * Description of RemoteDictController
- * Copyright 2017 Meorient, Inc. All rights reserved.
+ * Copyright 2017 diandian technology, Inc. All rights reserved.
  *
  * @author yuancheng.li
  * @version $Id: $
